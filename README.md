@@ -133,9 +133,9 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SujithKumar-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithKumar-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=SujithKumar-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithKumar-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" height="170" />
 
 </div>
 
@@ -143,7 +143,7 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=SujithKumar-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=SujithKumar-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -153,7 +153,7 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SujithKumar-04&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SujithKumar-04&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&row=2" alt="GitHub Trophies" />
 
 </div>
 
