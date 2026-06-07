@@ -3,17 +3,18 @@
 <!-- Visitor Counter -->
 <img src="https://komarev.com/ghpvc/?username=SujithKumar-04&label=Profile%20Views&style=for-the-badge&color=6e40c9" alt="Profile Views" />
 
+&nbsp;
+
 <!-- Wave -->
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" />
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="50" />
 
-<!-- Animated Typing Header -->
-<h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=6E40C9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sujith+Kumar+%F0%9F%91%8B;Full+Stack+Developer;Building+Immersive+Web+Experiences;Python+%7C+Django+%7C+React+%7C+Next.js" alt="Typing SVG" />
-</h1>
+<!-- Animated Typing Header — fixed apostrophe + language line -->
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6E40C9&center=true&vCenter=true&width=650&lines=Hey+there%2C+I+am+Sujith+Kumar!;Full+Stack+Developer;Building+Immersive+Web+Experiences;Python+%7C+Django+%7C+React+%7C+Next.js" alt="Typing SVG" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Crafting+ideas+into+stunning+digital+realities+%E2%9C%A8;Where+code+meets+creativity+%F0%9F%8E%A8;1%2B+years+of+full-stack+magic+%F0%9F%9A%80" alt="Tagline" />
-</p>
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Crafting+ideas+into+stunning+digital+realities+%E2%9C%A8;Where+code+meets+creativity+%F0%9F%8E%A8;1%2B+years+of+full-stack+magic+%F0%9F%9A%80" alt="Tagline" />
 
 </div>
 
@@ -71,14 +72,18 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=SujithKumar-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithKumar-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SujithKumar-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats" height="170" />
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithKumar-04&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170" />
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujithKumar-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<!-- Streak stats — using DenverCoder9 reliable mirror -->
+<img src="https://streak-stats.demolab.com/?user=SujithKumar-04&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
@@ -88,7 +93,7 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SujithKumar-04&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=SujithKumar-04&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies" />
 
 </div>
 
