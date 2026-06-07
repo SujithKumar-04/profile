@@ -1,9 +1,9 @@
 <div align="center">
 
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=sujithkumar004&label=Profile%20Views&color=0d1117&style=for-the-badge&color=6e40c9" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=SujithKumar-04&label=Profile%20Views&style=for-the-badge&color=6e40c9" alt="Profile Views" />
 
-<!-- Wave GIF -->
+<!-- Wave -->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="50" />
 
 <!-- Animated Typing Header -->
@@ -23,7 +23,7 @@
 
 I'm a **Full-Stack Developer** passionate about building **immersive and visually stunning web experiences**. I love combining development, design, and creativity to bring ideas to life.
 
-- 🔭 Currently crafting full-stack applications with **React**, **Next.js**, and **Django**
+- 🔭 Currently crafting full-stack apps with **React**, **Next.js**, and **Django**
 - 🌱 Leveling up in **system design**, **API architecture**, and **cloud deployments**
 - 🎨 I believe great software is both **functional** and **beautiful**
 - ⚡ Fun fact: I treat every project like a canvas — code is my brush
@@ -53,7 +53,6 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Responsive Design](https://img.shields.io/badge/Responsive%20Design-38B2AC?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 ---
 
@@ -62,7 +61,7 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chepuri-sujith-kumar/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sujithkumar004)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SujithKumar-04)
 
 </div>
 
@@ -72,14 +71,14 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sujithkumar004&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujithkumar004&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=SujithKumar-04&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujithKumar-04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sujithkumar004&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SujithKumar-04&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
@@ -89,17 +88,7 @@ I'm a **Full-Stack Developer** passionate about building **immersive and visuall
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sujithkumar004&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
-
-</div>
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/sujithkumar004/sujithkumar004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+<img src="https://github-profile-trophy.vercel.app/?username=SujithKumar-04&theme=darkhub&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
 
 </div>
 
